@@ -11,7 +11,7 @@ This project focuses on **automatic detection and classification of sugarcane le
 - Data augmentation was applied to balance the dataset, resulting in **~3300 images per class**.  
 
 ## ⚙️ Features
-- **Deep Learning Models:** ResNet18, EfficientNet-B1 with CBAM, GRU Classifier.  
+- **Deep Learning Models:** ResNet18, EfficientNet-B2 with CBAM, GRU Classifier.  
 - **Sugarcane Verifier:** Rejects non-sugarcane leaves before classification.  
 - **Performance Metrics:** Accuracy, Precision, Recall, F1-Score, Confusion Matrix.  
 - **Explainability:** LIME visualizations highlight important regions influencing predictions.  
